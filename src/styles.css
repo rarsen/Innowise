@@ -55,6 +55,7 @@ body {
     overflow-x: auto;
     /* Enables horizontal scrolling */
     scrollbar-width: thin;
+    
     /* Makes the scrollbar less intrusive (optional) */
 }
 
