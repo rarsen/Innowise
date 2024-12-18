@@ -29,10 +29,8 @@ The task is to:
 
 [**Link to the original task description**](https://docs.google.com/document/d/1xpq0wfBuAq6ufFsM1s3W2ApKszwxi8PszDRbPKB_omw/edit?tab=t.0#heading=h.5dt3hghpa22f).
 
-Folder Structure
+Folder Structure description
 ----------------
-    
-### Folder Descriptions:
 
 *   **dist**: Contains the bundled and optimized files ready for production.
     
