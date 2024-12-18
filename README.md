@@ -7,12 +7,14 @@ Table of Contents
 -----------------
 
 1.  [Task Description](#task-description)
-    
-2.  [How to Run the App](#how-to-run-the-app)
-    
-3.  [Deployment](#deployment)
-    
 
+2.  [Folder Structure](#folder-structure)
+    
+3.  [How to Run the App](#how-to-run-the-app)
+    
+4.  [Deployment](#deployment)
+
+    
 Task Description
 ----------------
 
@@ -27,6 +29,30 @@ The task is to:
 
 [**Link to the original task description**](https://docs.google.com/document/d/1xpq0wfBuAq6ufFsM1s3W2ApKszwxi8PszDRbPKB_omw/edit?tab=t.0#heading=h.5dt3hghpa22f).
 
+Folder Structure
+----------------
+    
+### Folder Descriptions:
+
+*   **dist**: Contains the bundled and optimized files ready for production.
+    
+*   **src**: Contains all source code, including HTML, JS, and CSS files.
+    
+*   **js**: JavaScript files are split into:
+    
+    *   calculator.js: Handles calculator logic (mathematical functions).
+        
+    *   ui.js: Handles user interface interactions.
+
+*   **index.html**: The main html file.
+
+*   **styles.css**: Styles for the calculator UI.
+    
+*   **webpack.config.js**: Configuration for bundling files using Webpack.
+
+*   **package.json**, **package-lock.json**: Project dependencies and scripts.
+    
+*   **.eslintrc.json**: ESLint configuration file for linting JavaScript code.
 
 How to Run the App
 ------------------
